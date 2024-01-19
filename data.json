@@ -1,0 +1,51 @@
+[
+    {
+      "name": "Amit Sharma",
+      "age": 32,
+      "contact": "+91 9876543210",
+      "address": {
+        "street": "123, ABC Street",
+        "city": "City1",
+        "state": "State1",
+        "country": "India",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "name": "Priya Patel",
+      "age": 28,
+      "contact": "+91 8765432109",
+      "address": {
+        "street": "456, XYZ Street",
+        "city": "City2",
+        "state": "State2",
+        "country": "India",
+        "zipcode": "67890"
+      }
+    },
+    {
+      "name": "Rahul Gupta",
+      "age": 35,
+      "contact": "+91 7654321098",
+      "address": {
+        "street": "789, PQR Street",
+        "city": "City1",
+        "state": "State3",
+        "country": "India",
+        "zipcode": "23456"
+      }
+    },
+    {
+      "name": "Anjali Kapoor",
+      "age": 26,
+      "contact": "+91 6543210987",
+      "address": {
+        "street": "101, LMN Street",
+        "city": "City4",
+        "state": "State4",
+        "country": "India",
+        "zipcode": "78901"
+      }
+    }
+  ]
+  
